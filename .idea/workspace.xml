@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59af75c5-0d36-419e-aae1-65eef26968f5" name="Changes" comment="">
+    <list default="true" id="59af75c5-0d36-419e-aae1-65eef26968f5" name="Changes" comment="Listo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DAO/ProductDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DAO/ProductDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/default.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/default.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
         <option value="Kotlin Data Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -41,6 +43,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Gradle.Build JDBC.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -63,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715202437314</updated>
     </task>
+    <task id="LOCAL-00001" summary="Listo">
+      <option name="closed" value="true" />
+      <created>1715282843380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715282843380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listo" />
   </component>
 </project>

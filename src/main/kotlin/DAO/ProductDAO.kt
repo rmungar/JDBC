@@ -39,7 +39,7 @@ class ProductDAO(private val console: IOutput ): IProductDAO {
     }
 
     override fun getAllProducts(): List<Product>? {
-        val sql = "SELECT * FROM tuser"
+        val sql = "SELECT * FROM PRODUCTS"
         return try {
             connection.use { connection ->
                 connection?.prepareStatement(sql).use { stmt ->
